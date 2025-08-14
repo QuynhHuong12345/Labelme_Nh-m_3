@@ -1,0 +1,10 @@
+_background_
+cuu 1
+cuu 2
+cuu 3
+cuu 4
+cuu 5
+cuu 6
+cuu 7
+cuu 8
+cuu 9
